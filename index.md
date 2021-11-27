@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+# 暑期实习简历
 
-You can use the [editor on GitHub](https://github.com/NoahELE/OnlineResume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 介绍
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+| 姓名     | 陈心浩   |
+| -------- | -------- |
+| 年龄     | 20       |
+| 所在城市 | 江苏盐城 |
 
-### Markdown
+## 教育
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2020 - 2023 墨尔本大学(UMLB) 本科
 
-```markdown
-Syntax highlighted code block
+## 技能点
 
-# Header 1
-## Header 2
-### Header 3
+- 在校学习成绩优秀, 各科成绩 h1
+- 能熟练使用英语交流, 雅思(IELTS) 7.0
+- 熟悉 java, 用 Java 实现过简单的小游戏
+- 系统学习过 Python, C, Java
 
-- Bulleted
-- List
+## 联系方式
 
-1. Numbered
-2. List
+### QQ
 
-**Bold** and _Italic_ and `Code` text
+635993882
 
-[Link](url) and ![Image](src)
-```
+### 微信
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+noahele
 
-### Jekyll Themes
+### Github
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NoahELE/OnlineResume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[NoahELE](https://github.com/NoahELE)
 
-### Support or Contact
+### 个人博客
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Personal Blog](https://noahele.github.io/Blog/)
