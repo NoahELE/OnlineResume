@@ -1,36 +1,35 @@
-# 暑期实习简历
+# Resume
 
-## 介绍
+## Introduction
 
-| 姓名     | 陈心浩   |
-| -------- | -------- |
-| 年龄     | 20       |
-| 所在城市 | 江苏盐城 |
+| Name | Xinhao(Noah) Chen |
+| ---- | ----------------- |
+| Age  | 20                |
 
-## 教育
+## Education
 
-2020 - 2023 墨尔本大学(UNIMELB) 本科
+2020 - 2023 University of Melbourne(UNIMELB) Bachelor of Science(Major in Computer Science)
 
-## 技能点
+## Skill Points
 
-- 在校学习成绩优秀, 各科成绩 h1 (80/100 以上)
-- 能熟练使用英语交流, 雅思(IELTS) 7.0
-- 在校系统学习过 Python, C, Java, MySQL
-- 熟悉 java, 用 Java 实现过 FlappyBird 小游戏 [^1]
-- 用 C 语言实现过双向链接边表(doubly-connected edge list) [^2]
-- 自学 javascript, 实现过基于 react 和 typescript 的 todo list demo [^3]
+- Good score at university, all subjects with h1 grade (above 80/100)
+- Fluent use of English, able to speak, listen and write with English, IELTS 7.0
+- Learnt Python, C, Java, MySQL at school
+- Be familiar with Java, have wriiten a FlappyBird game with Java [^1]
+- Implement a doubly-connected edge list with C [^2]
+- Learn javascript myself, have written a todo-list demo with react and typescript [^3]
 
-## 联系方式
+## Communication
 
 ### QQ
 
 635993882
 
-### 微信
+### Wechat
 
 noahele
 
-### 邮箱
+### Email
 
 noah.x.chen@outlook.com
 
@@ -38,7 +37,7 @@ noah.x.chen@outlook.com
 
 [NoahELE](https://github.com/NoahELE)
 
-### 个人博客
+### Personal Blog
 
 [Personal Blog](https://noahele.github.io/Blog/)
 
